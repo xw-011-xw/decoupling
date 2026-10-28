@@ -44,7 +44,7 @@ Issues 栏目用于小组内的任务协作：
 
 ## 使用说明
 
-- 拉取仓库：`git clone https://github.com/xw123-pro/decoupling.git`
+- 拉取仓库：`git clone https://github.com/xw-011-xw/decoupling.git`
 - 本地更新流程：修改文件后依次执行
   ```
   git add .
@@ -55,4 +55,4 @@ Issues 栏目用于小组内的任务协作：
 
 ## 维护
 
-维护人：xw123-pro
+维护人：xw-011-xw
