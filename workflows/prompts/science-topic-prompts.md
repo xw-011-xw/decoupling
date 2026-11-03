@@ -3,6 +3,9 @@
 > 用途：让 GPT 和 Danus（DeepSeek harness）帮忙在"大规模粒子随机游动"领域里，
 > 找与我们调和分析工具箱（解耦 / Strichartz / FIO / L^p 估计）**数学结构真对口**的研究问题。
 > 核心原则：问结构不问名词；强制 AI 标注信心；拒绝"扩散"二字硬扯关系。
+>
+> **相关文件**：研究任务已推进到"构造适配 Kolmogorov 方程的 decoupling 函数空间"，
+> 对应的提示词见 `kolmogorov-decoupling-prompts.md`；本文件仍用于选题阶段的探索。
 
 ## 使用方法
 
