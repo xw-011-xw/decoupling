@@ -6,6 +6,7 @@
 >
 > **相关文件**：研究任务已推进到"构造适配 Kolmogorov 方程的 decoupling 函数空间"，
 > 对应的提示词见 `kolmogorov-decoupling-prompts.md`；本文件仍用于选题阶段的探索。
+> 若要从**生活现象/科学问题**出发选题（现象→问题→模型→工具），见 `phenomenon-to-problem-prompts.md`。
 
 ## 使用方法
 
