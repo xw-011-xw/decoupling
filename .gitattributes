@@ -1,0 +1,6 @@
+# PDF 与图片按二进制处理，避免 Git 做行级 diff
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary

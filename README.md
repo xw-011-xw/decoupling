@@ -8,6 +8,7 @@
 - `workflows/`：工作流说明与改动记录（changes-log.md）
 - `experiments/`：GPT 对比差距定位（gpt-comparison.md）、独立验证（verification.md）
 - `reports/`：组会与汇报材料（presentation.md）
+- `notes/`：精读讲义《Kolmogorov 能量薄壳的 decoupling 与方向函数空间》（完整版 PDF 与 8 章分章版 PDF，见 `notes/README.md`）
 
 ## 当前任务（AI4Math 第四次实践课）
 

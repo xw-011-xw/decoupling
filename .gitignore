@@ -1,0 +1,15 @@
+# 系统与临时文件
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+~$*
+
+# 同步盘冲突副本
+*.nutstore*
+*冲突*
+*(conflicted copy*)*
+
+# 编辑器
+.vscode/
+.idea/
